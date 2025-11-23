@@ -1,0 +1,9 @@
+google-adk
+requests
+streamlit
+scapy
+reportlab
+matplotlib
+pandas
+pyyaml
+tqdm
