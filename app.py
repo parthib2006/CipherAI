@@ -4,8 +4,6 @@ import json
 import requests
 import asyncio
 import time
-import nest_asyncio
-nest_asyncio.apply()
 
 
 from dotenv import load_dotenv
