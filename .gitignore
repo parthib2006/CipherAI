@@ -1,5 +1,5 @@
 .env
 examples/
 venv/
-.pdf
+*.pdf
 __pycache__/
